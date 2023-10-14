@@ -1,0 +1,2 @@
+../../datasets/KAIST/0dB/clean/et_audio_s22e62b_011.wav,0.397,6352,16000
+../../datasets/KAIST/0dB/clean/et_audio_s22e12a_035.wav,0.351,5616,16000

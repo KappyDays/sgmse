@@ -1,0 +1,1302 @@
+dataset/wsj0_chime3/test/noisy/440c0201.wav, 5.725, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440c0202.wav, 12.2094375, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/440c0203.wav, 4.608, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/440c0204.wav, 11.532375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/440c0205.wav, 4.4534375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/440c0206.wav, 5.129625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/440c0207.wav, 8.9925625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440c0208.wav, 4.6735, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/440c0209.wav, 4.711625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/440c020a.wav, 8.6614375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440c020b.wav, 12.0475, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/440c020c.wav, 11.65725, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/440c020d.wav, 8.7625625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440c020e.wav, 12.3353125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/440c020f.wav, 10.584, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440c020g.wav, 6.1830625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/440c020h.wav, 8.50875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440c020i.wav, 9.425, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/440c020j.wav, 10.2950625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440c020k.wav, 8.4628125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440c020l.wav, 5.4019375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/440c020m.wav, 5.869875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440c020n.wav, 11.252375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/440c020o.wav, 9.1990625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440c020p.wav, 10.6616875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440c020q.wav, 6.9868125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/440c020r.wav, 8.532375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440c020s.wav, 6.0303125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440c020t.wav, 4.868375, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/440c020u.wav, 12.77825, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/440c020v.wav, 8.9565625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440c020w.wav, 6.6045, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/440c020x.wav, 9.8975625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440c020y.wav, 6.69475, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/440c020z.wav, 8.306, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440c0210.wav, 11.626625, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/440c0211.wav, 6.0506875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440c0212.wav, 9.8846875, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440c0213.wav, 7.2794375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/440c0214.wav, 4.3406875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/440o0301.wav, 10.4634375, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440o0302.wav, 14.6570625, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/440o0303.wav, 6.844, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/440o0304.wav, 6.0121875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440o0305.wav, 3.4514375, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/440o0306.wav, 9.6128125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/440o0307.wav, 8.787125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440o0308.wav, 8.9460625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440o0309.wav, 10.7450625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440o030a.wav, 9.759125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440o030b.wav, 7.1673125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/440o030c.wav, 8.456375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440o030d.wav, 14.054, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/440o030e.wav, 13.157, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/440o030f.wav, 8.5281875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440o030g.wav, 10.508625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440o030h.wav, 7.0059375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/440o030i.wav, 8.5003125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/440o030j.wav, 6.0365, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/440o030k.wav, 12.9805, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/440o030l.wav, 4.5886875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/440o030m.wav, 7.815625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/440o030n.wav, 8.11525, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/440o030o.wav, 9.1015, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440o030p.wav, 9.10525, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440o030q.wav, 9.7908125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440o030r.wav, 7.4163125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/440o030s.wav, 7.203, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/440o030t.wav, 11.87975, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/440o030u.wav, 8.8000625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/440o030v.wav, 11.717125, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/440o030w.wav, 11.905625, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/440o030x.wav, 12.2055, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/440o030y.wav, 10.7479375, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440o030z.wav, 10.044125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440o0310.wav, 10.655375, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/440o0311.wav, 7.4886875, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/440o0312.wav, 19.59825, torch.Size([1, 1, 256, 2496])
+dataset/wsj0_chime3/test/noisy/440o0313.wav, 9.857125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/440o0314.wav, 7.5288125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/441c0201.wav, 6.1265625, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441c0202.wav, 6.3463125, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/441c0203.wav, 4.491625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/441c0204.wav, 7.6963125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c0205.wav, 3.054875, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/441c0206.wav, 5.0881875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/441c0207.wav, 4.6235625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/441c0208.wav, 8.200875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/441c0209.wav, 5.560625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/441c020a.wav, 8.8979375, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/441c020b.wav, 6.6195, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/441c020c.wav, 9.255875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/441c020d.wav, 6.0906875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441c020e.wav, 7.4539375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/441c020f.wav, 4.9139375, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/441c020g.wav, 5.6034375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/441c020h.wav, 6.835125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/441c020i.wav, 10.9553125, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/441c020j.wav, 7.8235625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c020k.wav, 10.5486875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/441c020l.wav, 8.8123125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/441c020m.wav, 9.3045, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/441c020n.wav, 8.0796875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c020o.wav, 6.39275, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/441c020p.wav, 6.39975, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/441c020q.wav, 6.0195, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441c020r.wav, 6.1374375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441c020s.wav, 4.49375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/441c020t.wav, 3.8001875, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/441c020u.wav, 2.8350625, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/441c020v.wav, 8.117375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c020w.wav, 7.777, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c020x.wav, 7.4220625, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/441c020y.wav, 6.1114375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441c020z.wav, 10.0790625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/441c0210.wav, 6.779, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/441c0211.wav, 9.3713125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/441c0212.wav, 9.930125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/441c0213.wav, 8.0114375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441c0214.wav, 8.67825, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/441c0215.wav, 5.577875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/441c0216.wav, 3.8273125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/441o0301.wav, 11.9320625, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/441o0302.wav, 3.3546875, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/441o0303.wav, 12.4198125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/441o0304.wav, 5.558375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/441o0305.wav, 5.6449375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441o0306.wav, 9.4905625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/441o0307.wav, 12.6379375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/441o0308.wav, 11.4455, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/441o0309.wav, 9.3186875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/441o030a.wav, 4.1941875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/441o030b.wav, 12.257375, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/441o030c.wav, 7.6609375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/441o030d.wav, 13.6735625, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/441o030e.wav, 7.799125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441o030f.wav, 7.8640625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441o030g.wav, 6.012, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/441o030h.wav, 15.091375, torch.Size([1, 1, 256, 1920])
+dataset/wsj0_chime3/test/noisy/441o030i.wav, 15.8309375, torch.Size([1, 1, 256, 1984])
+dataset/wsj0_chime3/test/noisy/441o030j.wav, 12.702375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/441o030k.wav, 13.890125, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/441o030l.wav, 9.777375, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/441o030m.wav, 11.070375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/441o030n.wav, 8.220125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/441o030o.wav, 8.29825, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/441o030p.wav, 9.75575, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/441o030q.wav, 5.1493125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/441o030r.wav, 11.705125, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/441o030s.wav, 4.7705, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/441o030t.wav, 6.5675, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/441o030u.wav, 14.813375, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/441o030v.wav, 10.4746875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/441o030w.wav, 14.535625, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/441o030x.wav, 14.2158125, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/441o030y.wav, 8.339625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/441o030z.wav, 11.8680625, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/441o0310.wav, 14.8296875, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/441o0311.wav, 9.039125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/441o0312.wav, 15.985875, torch.Size([1, 1, 256, 2048])
+dataset/wsj0_chime3/test/noisy/441o0313.wav, 7.877875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/441o0314.wav, 7.5004375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/442c0201.wav, 5.6770625, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c0202.wav, 7.3038125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/442c0203.wav, 6.442625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442c0204.wav, 9.3539375, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442c0205.wav, 9.593625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442c0206.wav, 6.90125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442c0207.wav, 6.6165, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442c0208.wav, 10.4249375, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/442c0209.wav, 6.2474375, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442c020a.wav, 11.86975, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/442c020b.wav, 8.2050625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442c020c.wav, 7.0310625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442c020d.wav, 10.0090625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442c020e.wav, 7.9008125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/442c020f.wav, 6.3375, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442c020g.wav, 5.55675, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/442c020h.wav, 5.834625, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c020i.wav, 5.5805, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/442c020j.wav, 10.880375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/442c020k.wav, 5.017375, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/442c020l.wav, 9.213, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/442c020m.wav, 6.068875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c020n.wav, 5.2643125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/442c020o.wav, 7.074625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442c020p.wav, 8.903125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/442c020q.wav, 9.8070625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442c020r.wav, 8.815625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/442c020s.wav, 9.53225, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442c020t.wav, 9.9606875, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442c020u.wav, 8.2901875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442c020v.wav, 6.005125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c020w.wav, 9.2280625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442c020x.wav, 4.796875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/442c020y.wav, 8.209625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442c020z.wav, 5.7195, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c0210.wav, 3.461125, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/442c0211.wav, 3.4151875, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/442c0212.wav, 5.1495625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/442c0213.wav, 2.4363125, torch.Size([1, 1, 256, 320])
+dataset/wsj0_chime3/test/noisy/442c0214.wav, 5.9521875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442c0215.wav, 7.6161875, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/442c0216.wav, 7.0976875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442o0301.wav, 9.6510625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o0302.wav, 6.1801875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442o0303.wav, 6.0838125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/442o0304.wav, 9.242875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o0305.wav, 8.529, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442o0306.wav, 6.762, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442o0307.wav, 6.968, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442o0308.wav, 12.8920625, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/442o0309.wav, 12.5228125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/442o030a.wav, 11.2870625, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/442o030b.wav, 10.02725, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442o030c.wav, 10.74425, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/442o030d.wav, 6.7145, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442o030e.wav, 9.13975, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/442o030f.wav, 8.483125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442o030g.wav, 13.04225, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/442o030h.wav, 6.6334375, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442o030i.wav, 9.674125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030j.wav, 9.227375, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030k.wav, 9.533875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030l.wav, 7.8095625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/442o030m.wav, 6.821375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/442o030n.wav, 9.6145, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030o.wav, 9.904125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442o030p.wav, 10.5396875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/442o030q.wav, 10.8161875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/442o030r.wav, 9.714375, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030s.wav, 6.1830625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442o030t.wav, 9.680875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/442o030u.wav, 6.4471875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/442o030v.wav, 4.0833125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/442o030w.wav, 10.2063125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442o030x.wav, 9.8471875, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/442o030y.wav, 8.893, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/442o030z.wav, 7.9126875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/442o0310.wav, 7.473375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/442o0311.wav, 8.515125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/442o0312.wav, 10.750875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/442o0313.wav, 8.9860625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c0201.wav, 14.211, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/443c0202.wav, 6.5621875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/443c0203.wav, 9.3216875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443c0204.wav, 10.2309375, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/443c0205.wav, 9.053125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c0206.wav, 7.15425, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443c0207.wav, 5.1065, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/443c0208.wav, 8.6218125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c0209.wav, 9.0968125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c020a.wav, 9.3381875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443c020b.wav, 3.35625, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/443c020c.wav, 7.8235625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/443c020d.wav, 10.2165, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/443c020e.wav, 5.7009375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443c020f.wav, 7.98, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/443c020g.wav, 10.108625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/443c020h.wav, 6.6205, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/443c020i.wav, 8.97325, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c020j.wav, 8.2968125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c020k.wav, 6.956125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443c020l.wav, 6.99025, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443c020m.wav, 6.0038125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443c020n.wav, 8.76525, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c020o.wav, 11.2515, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/443c020p.wav, 13.4124375, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/443c020q.wav, 5.4126875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/443c020r.wav, 9.12375, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c020s.wav, 4.093625, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/443c020t.wav, 9.6198125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443c020u.wav, 8.6945625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c020v.wav, 4.9361875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/443c020w.wav, 8.553, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c020x.wav, 9.862, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/443c020y.wav, 8.6176875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c020z.wav, 8.258375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443c0210.wav, 8.8488125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443c0211.wav, 5.984, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443c0212.wav, 4.005625, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/443c0213.wav, 5.44075, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/443c0214.wav, 8.64975, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/443o0301.wav, 12.367125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/443o0302.wav, 12.5069375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/443o0303.wav, 12.429125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/443o0304.wav, 5.6035625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/443o0305.wav, 5.864, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443o0306.wav, 6.7631875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o0307.wav, 4.541, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/443o0308.wav, 6.9613125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o0309.wav, 12.8304375, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/443o030a.wav, 7.679, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/443o030b.wav, 7.076375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o030c.wav, 9.2715, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443o030d.wav, 7.07525, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o030e.wav, 6.848625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o030f.wav, 8.9878125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443o030g.wav, 10.9300625, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/443o030h.wav, 5.075625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/443o030i.wav, 9.747375, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/443o030j.wav, 5.70125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443o030k.wav, 6.360875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/443o030l.wav, 6.137625, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443o030m.wav, 14.2233125, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/443o030n.wav, 13.176375, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/443o030o.wav, 11.438375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/443o030p.wav, 10.7781875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/443o030q.wav, 9.7070625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443o030r.wav, 6.7429375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/443o030s.wav, 9.452, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/443o030t.wav, 4.5775625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/443o030u.wav, 8.775, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/443o030v.wav, 12.7319375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/443o030w.wav, 12.694375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/443o030x.wav, 11.116875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/443o030y.wav, 14.8234375, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/443o030z.wav, 6.5769375, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/443o0310.wav, 5.696375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/443o0311.wav, 10.4400625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/443o0312.wav, 13.65025, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/443o0313.wav, 13.39225, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/443o0314.wav, 10.227625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444c0201.wav, 10.4180625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/444c0202.wav, 7.7668125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444c0203.wav, 9.3285, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444c0204.wav, 7.860875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444c0205.wav, 9.9091875, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444c0206.wav, 9.2338125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444c0207.wav, 7.0705, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444c0208.wav, 6.7758125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444c0209.wav, 10.598, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/444c020a.wav, 6.939375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444c020b.wav, 9.8953125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444c020c.wav, 8.810125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444c020d.wav, 4.7729375, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/444c020e.wav, 6.573875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/444c020f.wav, 5.2429375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/444c020g.wav, 8.8051875, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444c020h.wav, 9.2110625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444c020i.wav, 6.0514375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444c020j.wav, 8.4741875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/444c020k.wav, 4.649, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/444c020l.wav, 9.262625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444c020m.wav, 4.589, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/444c020n.wav, 2.380375, torch.Size([1, 1, 256, 320])
+dataset/wsj0_chime3/test/noisy/444c020o.wav, 7.247125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/444c020p.wav, 10.227875, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444c020q.wav, 9.1616875, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444c020r.wav, 11.1451875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/444c020s.wav, 9.24625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444c020t.wav, 6.13425, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444c020u.wav, 5.4193125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/444c020v.wav, 9.40575, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444c020w.wav, 4.875125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/444c020x.wav, 7.909125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444c020y.wav, 8.06575, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444c020z.wav, 7.747125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444c0210.wav, 10.99825, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/444c0211.wav, 11.00725, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/444c0212.wav, 9.9579375, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444c0213.wav, 5.175125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/444c0214.wav, 8.2463125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/444c0215.wav, 7.4685, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/444o0301.wav, 5.75875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444o0302.wav, 6.5023125, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/444o0303.wav, 10.286875, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/444o0304.wav, 9.0638125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444o0305.wav, 9.3381875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444o0306.wav, 5.017875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/444o0307.wav, 10.8529375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/444o0308.wav, 6.104375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444o0309.wav, 14.0900625, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/444o030a.wav, 9.2585625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/444o030b.wav, 11.4464375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/444o030c.wav, 9.1449375, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444o030d.wav, 7.8585625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444o030e.wav, 6.7488125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444o030f.wav, 6.1341875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444o030g.wav, 15.33175, torch.Size([1, 1, 256, 1920])
+dataset/wsj0_chime3/test/noisy/444o030h.wav, 12.844125, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/444o030i.wav, 9.779125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444o030j.wav, 12.379375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/444o030k.wav, 8.52675, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/444o030l.wav, 11.244375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/444o030m.wav, 8.783, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444o030n.wav, 8.6684375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/444o030o.wav, 8.826125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444o030p.wav, 7.6768125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/444o030q.wav, 11.4891875, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/444o030r.wav, 4.1816875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/444o030s.wav, 9.998, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/444o030t.wav, 10.4225625, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/444o030u.wav, 6.5811875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/444o030v.wav, 6.862625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444o030w.wav, 8.7615625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/444o030x.wav, 5.69925, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444o030y.wav, 14.69425, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/444o030z.wav, 12.6451875, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/444o0310.wav, 7.9648125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/444o0311.wav, 6.00225, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/444o0312.wav, 4.2310625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/444o0313.wav, 6.9701875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/444o0314.wav, 3.2029375, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/445c0201.wav, 7.856375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/445c0202.wav, 6.3423125, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445c0203.wav, 5.288875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c0204.wav, 6.2436875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445c0205.wav, 4.10275, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c0206.wav, 4.162625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c0207.wav, 3.24775, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/445c0208.wav, 4.1103125, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c0209.wav, 4.9643125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/445c020a.wav, 6.2165, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445c020b.wav, 5.50875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c020c.wav, 5.8759375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445c020d.wav, 5.5211875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c020e.wav, 9.4328125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/445c020f.wav, 6.159625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445c020g.wav, 9.4843125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/445c020h.wav, 5.8565625, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445c020i.wav, 4.397625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c020j.wav, 10.7154375, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/445c020k.wav, 7.530125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/445c020l.wav, 9.0925, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445c020m.wav, 4.2088125, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c020n.wav, 9.0788125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445c020o.wav, 2.9764375, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/445c020p.wav, 5.6295, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c020q.wav, 5.664875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445c020r.wav, 5.6028125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c020s.wav, 4.48175, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c020t.wav, 8.006, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/445c020u.wav, 3.8241875, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/445c020v.wav, 2.57075, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/445c020w.wav, 9.7583125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/445c020x.wav, 4.8486875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/445c020y.wav, 3.349375, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/445c020z.wav, 5.222375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445c0210.wav, 7.74575, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/445c0211.wav, 3.9008125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/445c0212.wav, 4.175625, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445c0213.wav, 3.095125, torch.Size([1, 1, 256, 448])
+dataset/wsj0_chime3/test/noisy/445c0214.wav, 6.6706875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/445c0215.wav, 6.2890625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445c0216.wav, 5.8214375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445o0301.wav, 8.3736875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/445o0302.wav, 11.3999375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/445o0303.wav, 6.219125, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445o0304.wav, 5.6633125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445o0305.wav, 8.4543125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/445o0306.wav, 9.039375, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445o0307.wav, 4.7023125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/445o0308.wav, 15.8816875, torch.Size([1, 1, 256, 2048])
+dataset/wsj0_chime3/test/noisy/445o0309.wav, 4.695875, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/445o030a.wav, 5.2235, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/445o030b.wav, 14.007, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/445o030c.wav, 8.982, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445o030d.wav, 14.0536875, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/445o030e.wav, 6.00575, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445o030f.wav, 8.8645, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445o030g.wav, 11.8745, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/445o030h.wav, 9.9260625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/445o030i.wav, 12.3429375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/445o030j.wav, 6.43475, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445o030k.wav, 6.849625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/445o030l.wav, 4.2765, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/445o030m.wav, 6.67325, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/445o030n.wav, 3.9699375, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/445o030o.wav, 7.4198125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/445o030p.wav, 6.7740625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/445o030q.wav, 11.7299375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/445o030r.wav, 7.3110625, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/445o030s.wav, 10.1185, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/445o030t.wav, 8.802625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/445o030u.wav, 6.630625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445o030v.wav, 8.2975625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/445o030w.wav, 13.0465, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/445o030x.wav, 5.640875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/445o030y.wav, 14.3225, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/445o030z.wav, 6.84375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/445o0310.wav, 6.2426875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/445o0311.wav, 8.53975, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/445o0312.wav, 6.47025, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446c0201.wav, 8.1599375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446c0202.wav, 7.941875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446c0203.wav, 3.8838125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/446c0204.wav, 6.377, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446c0205.wav, 4.4089375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446c0206.wav, 4.5154375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446c0207.wav, 4.5505, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446c0208.wav, 4.351, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446c0209.wav, 8.08025, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446c020a.wav, 6.9641875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446c020b.wav, 9.3243125, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446c020c.wav, 8.4545625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446c020d.wav, 6.49725, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446c020e.wav, 10.954125, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/446c020f.wav, 8.44025, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446c020g.wav, 7.362375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/446c020h.wav, 8.23, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446c020i.wav, 7.6833125, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446c020j.wav, 9.489875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446c020k.wav, 6.82875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446c020l.wav, 12.179, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/446c020m.wav, 7.3394375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/446c020n.wav, 6.0344375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/446c020o.wav, 4.66425, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/446c020p.wav, 3.012625, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/446c020q.wav, 6.5704375, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446c020r.wav, 8.461625, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446c020s.wav, 6.8948125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446c020t.wav, 11.0203125, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/446c020u.wav, 4.2996875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446c020v.wav, 8.928125, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/446c020w.wav, 5.499875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/446c020x.wav, 8.02775, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446c020y.wav, 4.6695625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/446c020z.wav, 6.101375, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/446c0210.wav, 10.120125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/446c0211.wav, 6.4006875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446c0212.wav, 12.29925, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/446c0213.wav, 5.6210625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/446c0214.wav, 5.66125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/446o0301.wav, 12.0075, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/446o0302.wav, 3.0165625, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/446o0303.wav, 11.3333125, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/446o0304.wav, 6.902375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446o0305.wav, 9.567875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446o0306.wav, 11.315, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/446o0307.wav, 7.1531875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446o0308.wav, 12.7898125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/446o0309.wav, 13.8153125, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/446o030a.wav, 11.6263125, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/446o030b.wav, 7.0440625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446o030c.wav, 11.0986875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/446o030d.wav, 7.376125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/446o030e.wav, 8.3179375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446o030f.wav, 9.405875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446o030g.wav, 6.8385625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446o030h.wav, 11.691, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/446o030i.wav, 4.3756875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446o030j.wav, 11.0059375, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/446o030k.wav, 9.920625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/446o030l.wav, 5.703875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/446o030m.wav, 7.8270625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446o030n.wav, 5.5819375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/446o030o.wav, 8.4826875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446o030p.wav, 7.4296875, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/446o030q.wav, 9.4515, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446o030r.wav, 10.756875, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/446o030s.wav, 4.651125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/446o030t.wav, 10.0385625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/446o030u.wav, 9.90525, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/446o030v.wav, 13.1535625, torch.Size([1, 1, 256, 1664])
+dataset/wsj0_chime3/test/noisy/446o030w.wav, 6.72025, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/446o030x.wav, 5.15525, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/446o030y.wav, 9.3326875, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/446o030z.wav, 8.3268125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/446o0310.wav, 8.0124375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446o0311.wav, 7.1865, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/446o0312.wav, 7.899875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446o0313.wav, 3.6160625, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/446o0314.wav, 5.7701875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/446o0315.wav, 12.4644375, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/446o0316.wav, 6.609125, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/446o0317.wav, 4.5914375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/446o0318.wav, 7.689, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/446o0319.wav, 10.053, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/446o031a.wav, 6.203625, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/447c0201.wav, 7.4264375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c0202.wav, 3.9199375, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/447c0203.wav, 3.9588125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/447c0204.wav, 10.041625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447c0205.wav, 2.080125, torch.Size([1, 1, 256, 320])
+dataset/wsj0_chime3/test/noisy/447c0206.wav, 7.643375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c0207.wav, 9.1865625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/447c0208.wav, 10.936, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/447c0209.wav, 4.753625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/447c020a.wav, 4.637125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/447c020b.wav, 7.092, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447c020c.wav, 10.1095625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447c020d.wav, 4.52725, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/447c020e.wav, 7.422625, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c020f.wav, 6.756875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447c020g.wav, 8.3381875, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/447c020h.wav, 7.426375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c020i.wav, 6.3181875, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/447c020j.wav, 9.873125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447c020k.wav, 3.6758125, torch.Size([1, 1, 256, 512])
+dataset/wsj0_chime3/test/noisy/447c020l.wav, 8.080625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447c020m.wav, 7.0961875, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447c020n.wav, 7.2188125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c020o.wav, 5.2836875, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/447c020p.wav, 8.8525625, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/447c020q.wav, 9.0796875, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/447c020r.wav, 5.337375, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/447c020s.wav, 6.9858125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447c020t.wav, 11.4913125, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/447c020u.wav, 8.525125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/447c020v.wav, 8.3199375, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/447c020w.wav, 9.454625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/447c020x.wav, 7.521375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447c020y.wav, 7.879625, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447c020z.wav, 6.18925, torch.Size([1, 1, 256, 832])
+dataset/wsj0_chime3/test/noisy/447c0210.wav, 7.7924375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447c0211.wav, 4.89225, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/447c0212.wav, 9.516625, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/447c0213.wav, 4.7393125, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/447c0214.wav, 2.9835, torch.Size([1, 1, 256, 384])
+dataset/wsj0_chime3/test/noisy/447c0215.wav, 11.3606875, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/447c0216.wav, 9.747125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447c0217.wav, 11.5694375, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/447o0301.wav, 10.485, torch.Size([1, 1, 256, 1344])
+dataset/wsj0_chime3/test/noisy/447o0302.wav, 9.2985, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/447o0303.wav, 6.1188125, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/447o0304.wav, 10.1108125, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447o0305.wav, 8.11, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447o0306.wav, 7.336375, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447o0307.wav, 4.2646875, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/447o0308.wav, 4.877625, torch.Size([1, 1, 256, 640])
+dataset/wsj0_chime3/test/noisy/447o0309.wav, 7.033625, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447o030a.wav, 14.731125, torch.Size([1, 1, 256, 1856])
+dataset/wsj0_chime3/test/noisy/447o030b.wav, 6.9813125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447o030c.wav, 7.9951875, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447o030d.wav, 6.8948125, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447o030e.wav, 14.334, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/447o030f.wav, 13.941375, torch.Size([1, 1, 256, 1792])
+dataset/wsj0_chime3/test/noisy/447o030g.wav, 11.973, torch.Size([1, 1, 256, 1536])
+dataset/wsj0_chime3/test/noisy/447o030h.wav, 7.378125, torch.Size([1, 1, 256, 960])
+dataset/wsj0_chime3/test/noisy/447o030i.wav, 9.404, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/447o030j.wav, 5.8831875, torch.Size([1, 1, 256, 768])
+dataset/wsj0_chime3/test/noisy/447o030k.wav, 7.82025, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447o030l.wav, 9.8535625, torch.Size([1, 1, 256, 1280])
+dataset/wsj0_chime3/test/noisy/447o030m.wav, 5.2765625, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/447o030n.wav, 9.566, torch.Size([1, 1, 256, 1216])
+dataset/wsj0_chime3/test/noisy/447o030o.wav, 11.463875, torch.Size([1, 1, 256, 1472])
+dataset/wsj0_chime3/test/noisy/447o030p.wav, 15.6018125, torch.Size([1, 1, 256, 1984])
+dataset/wsj0_chime3/test/noisy/447o030q.wav, 9.1156875, torch.Size([1, 1, 256, 1152])
+dataset/wsj0_chime3/test/noisy/447o030r.wav, 12.574125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/447o030s.wav, 5.2358125, torch.Size([1, 1, 256, 704])
+dataset/wsj0_chime3/test/noisy/447o030t.wav, 8.3358125, torch.Size([1, 1, 256, 1088])
+dataset/wsj0_chime3/test/noisy/447o030u.wav, 13.492625, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/447o030v.wav, 12.6693125, torch.Size([1, 1, 256, 1600])
+dataset/wsj0_chime3/test/noisy/447o030w.wav, 11.252125, torch.Size([1, 1, 256, 1408])
+dataset/wsj0_chime3/test/noisy/447o030x.wav, 13.53575, torch.Size([1, 1, 256, 1728])
+dataset/wsj0_chime3/test/noisy/447o030y.wav, 6.761375, torch.Size([1, 1, 256, 896])
+dataset/wsj0_chime3/test/noisy/447o030z.wav, 4.5564375, torch.Size([1, 1, 256, 576])
+dataset/wsj0_chime3/test/noisy/447o0310.wav, 17.2121875, torch.Size([1, 1, 256, 2176])
+dataset/wsj0_chime3/test/noisy/447o0311.wav, 7.906375, torch.Size([1, 1, 256, 1024])
+dataset/wsj0_chime3/test/noisy/447o0312.wav, 7.6998125, torch.Size([1, 1, 256, 1024])
+2.080125
+2.380375
+2.4363125
+2.57075
+2.8350625
+2.9764375
+2.9835
+3.012625
+3.0165625
+3.054875
+3.095125
+3.2029375
+3.24775
+3.349375
+3.3546875
+3.35625
+3.4151875
+3.4514375
+3.461125
+3.6160625
+3.6758125
+3.8001875
+3.8241875
+3.8273125
+3.8838125
+3.9008125
+3.9199375
+3.9588125
+3.9699375
+4.005625
+4.0833125
+4.093625
+4.10275
+4.1103125
+4.162625
+4.175625
+4.1816875
+4.1941875
+4.2088125
+4.2310625
+4.2646875
+4.2765
+4.2996875
+4.3406875
+4.351
+4.3756875
+4.397625
+4.4089375
+4.4534375
+4.48175
+4.491625
+4.49375
+4.5154375
+4.52725
+4.541
+4.5505
+4.5564375
+4.5775625
+4.5886875
+4.589
+4.5914375
+4.608
+4.6235625
+4.637125
+4.649
+4.651125
+4.66425
+4.6695625
+4.6735
+4.695875
+4.7023125
+4.711625
+4.7393125
+4.753625
+4.7705
+4.7729375
+4.796875
+4.8486875
+4.868375
+4.875125
+4.877625
+4.89225
+4.9139375
+4.9361875
+4.9643125
+5.017375
+5.017875
+5.075625
+5.0881875
+5.1065
+5.129625
+5.1493125
+5.1495625
+5.15525
+5.175125
+5.222375
+5.2235
+5.2358125
+5.2429375
+5.2643125
+5.2765625
+5.2836875
+5.288875
+5.337375
+5.4019375
+5.4126875
+5.4193125
+5.44075
+5.499875
+5.50875
+5.5211875
+5.55675
+5.558375
+5.560625
+5.577875
+5.5805
+5.5819375
+5.6028125
+5.6034375
+5.6035625
+5.6210625
+5.6295
+5.640875
+5.6449375
+5.66125
+5.6633125
+5.664875
+5.6770625
+5.696375
+5.69925
+5.7009375
+5.70125
+5.703875
+5.7195
+5.725
+5.75875
+5.7701875
+5.8214375
+5.834625
+5.8565625
+5.864
+5.869875
+5.8759375
+5.8831875
+5.9521875
+5.984
+6.00225
+6.0038125
+6.005125
+6.00575
+6.012
+6.0121875
+6.0195
+6.0303125
+6.0344375
+6.0365
+6.0506875
+6.0514375
+6.068875
+6.0838125
+6.0906875
+6.101375
+6.104375
+6.1114375
+6.1188125
+6.1265625
+6.1341875
+6.13425
+6.1374375
+6.137625
+6.159625
+6.1801875
+6.1830625
+6.1830625
+6.18925
+6.203625
+6.2165
+6.219125
+6.2426875
+6.2436875
+6.2474375
+6.2890625
+6.3181875
+6.3375
+6.3423125
+6.3463125
+6.360875
+6.377
+6.39275
+6.39975
+6.4006875
+6.43475
+6.442625
+6.4471875
+6.47025
+6.49725
+6.5023125
+6.5621875
+6.5675
+6.5704375
+6.573875
+6.5769375
+6.5811875
+6.6045
+6.609125
+6.6165
+6.6195
+6.6205
+6.630625
+6.6334375
+6.6706875
+6.67325
+6.69475
+6.7145
+6.72025
+6.7429375
+6.7488125
+6.756875
+6.761375
+6.762
+6.7631875
+6.7740625
+6.7758125
+6.779
+6.821375
+6.82875
+6.835125
+6.8385625
+6.84375
+6.844
+6.848625
+6.849625
+6.862625
+6.8948125
+6.8948125
+6.90125
+6.902375
+6.939375
+6.956125
+6.9613125
+6.9641875
+6.968
+6.9701875
+6.9813125
+6.9858125
+6.9868125
+6.99025
+7.0059375
+7.0310625
+7.033625
+7.0440625
+7.0705
+7.074625
+7.07525
+7.076375
+7.092
+7.0961875
+7.0976875
+7.1531875
+7.15425
+7.1673125
+7.1865
+7.203
+7.2188125
+7.247125
+7.2794375
+7.3038125
+7.3110625
+7.336375
+7.3394375
+7.362375
+7.376125
+7.378125
+7.4163125
+7.4198125
+7.4220625
+7.422625
+7.426375
+7.4264375
+7.4296875
+7.4539375
+7.4685
+7.473375
+7.4886875
+7.5004375
+7.521375
+7.5288125
+7.530125
+7.6161875
+7.643375
+7.6609375
+7.6768125
+7.679
+7.6833125
+7.689
+7.6963125
+7.6998125
+7.74575
+7.747125
+7.7668125
+7.777
+7.7924375
+7.799125
+7.8095625
+7.815625
+7.82025
+7.8235625
+7.8235625
+7.8270625
+7.856375
+7.8585625
+7.860875
+7.8640625
+7.877875
+7.879625
+7.899875
+7.9008125
+7.906375
+7.909125
+7.9126875
+7.941875
+7.9648125
+7.98
+7.9951875
+8.006
+8.0114375
+8.0124375
+8.02775
+8.06575
+8.0796875
+8.08025
+8.080625
+8.11
+8.11525
+8.117375
+8.1599375
+8.200875
+8.2050625
+8.209625
+8.220125
+8.23
+8.2463125
+8.258375
+8.2901875
+8.2968125
+8.2975625
+8.29825
+8.306
+8.3179375
+8.3199375
+8.3268125
+8.3358125
+8.3381875
+8.339625
+8.3736875
+8.44025
+8.4543125
+8.4545625
+8.456375
+8.461625
+8.4628125
+8.4741875
+8.4826875
+8.483125
+8.5003125
+8.50875
+8.515125
+8.525125
+8.52675
+8.5281875
+8.529
+8.532375
+8.53975
+8.553
+8.6176875
+8.6218125
+8.64975
+8.6614375
+8.6684375
+8.67825
+8.6945625
+8.7615625
+8.7625625
+8.76525
+8.775
+8.783
+8.787125
+8.8000625
+8.802625
+8.8051875
+8.810125
+8.8123125
+8.815625
+8.826125
+8.8488125
+8.8525625
+8.8645
+8.893
+8.8979375
+8.903125
+8.928125
+8.9460625
+8.9565625
+8.97325
+8.982
+8.9860625
+8.9878125
+8.9925625
+9.039125
+9.039375
+9.053125
+9.0638125
+9.0788125
+9.0796875
+9.0925
+9.0968125
+9.1015
+9.10525
+9.1156875
+9.12375
+9.13975
+9.1449375
+9.1616875
+9.1865625
+9.1990625
+9.2110625
+9.213
+9.227375
+9.2280625
+9.2338125
+9.242875
+9.24625
+9.255875
+9.2585625
+9.262625
+9.2715
+9.2985
+9.3045
+9.3186875
+9.3216875
+9.3243125
+9.3285
+9.3326875
+9.3381875
+9.3381875
+9.3539375
+9.3713125
+9.404
+9.40575
+9.405875
+9.425
+9.4328125
+9.4515
+9.452
+9.454625
+9.4843125
+9.489875
+9.4905625
+9.516625
+9.53225
+9.533875
+9.566
+9.567875
+9.593625
+9.6128125
+9.6145
+9.6198125
+9.6510625
+9.674125
+9.680875
+9.7070625
+9.714375
+9.747125
+9.747375
+9.75575
+9.7583125
+9.759125
+9.777375
+9.779125
+9.7908125
+9.8070625
+9.8471875
+9.8535625
+9.857125
+9.862
+9.873125
+9.8846875
+9.8953125
+9.8975625
+9.904125
+9.90525
+9.9091875
+9.920625
+9.9260625
+9.930125
+9.9579375
+9.9606875
+9.998
+10.0090625
+10.02725
+10.0385625
+10.041625
+10.044125
+10.053
+10.0790625
+10.108625
+10.1095625
+10.1108125
+10.1185
+10.120125
+10.2063125
+10.2165
+10.227625
+10.227875
+10.2309375
+10.286875
+10.2950625
+10.4180625
+10.4225625
+10.4249375
+10.4400625
+10.4634375
+10.4746875
+10.485
+10.508625
+10.5396875
+10.5486875
+10.584
+10.598
+10.655375
+10.6616875
+10.7154375
+10.74425
+10.7450625
+10.7479375
+10.750875
+10.756875
+10.7781875
+10.8161875
+10.8529375
+10.880375
+10.9300625
+10.936
+10.954125
+10.9553125
+10.99825
+11.0059375
+11.00725
+11.0203125
+11.070375
+11.0986875
+11.116875
+11.1451875
+11.244375
+11.2515
+11.252125
+11.252375
+11.2870625
+11.315
+11.3333125
+11.3606875
+11.3999375
+11.438375
+11.4455
+11.4464375
+11.463875
+11.4891875
+11.4913125
+11.532375
+11.5694375
+11.6263125
+11.626625
+11.65725
+11.691
+11.705125
+11.717125
+11.7299375
+11.8680625
+11.86975
+11.8745
+11.87975
+11.905625
+11.9320625
+11.973
+12.0075
+12.0475
+12.179
+12.2055
+12.2094375
+12.257375
+12.29925
+12.3353125
+12.3429375
+12.367125
+12.379375
+12.4198125
+12.429125
+12.4644375
+12.5069375
+12.5228125
+12.574125
+12.6379375
+12.6451875
+12.6693125
+12.694375
+12.702375
+12.7319375
+12.77825
+12.7898125
+12.8304375
+12.844125
+12.8920625
+12.9805
+13.04225
+13.0465
+13.1535625
+13.157
+13.176375
+13.39225
+13.4124375
+13.492625
+13.53575
+13.65025
+13.6735625
+13.8153125
+13.890125
+13.941375
+14.007
+14.0536875
+14.054
+14.0900625
+14.211
+14.2158125
+14.2233125
+14.3225
+14.334
+14.535625
+14.6570625
+14.69425
+14.731125
+14.813375
+14.8234375
+14.8296875
+15.091375
+15.33175
+15.6018125
+15.8309375
+15.8816875
+15.985875
+17.2121875
+19.59825

@@ -1,0 +1,49 @@
+# train 실행 명령어
+python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 1 --batch_size 1 --dataset_type default
+
+CUDA_VISIBLE_DEVICES=2,3 python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 2 --batch_size 8 --dataset_type default --TwoCross True --cross_attn_resolutions [128, 32]
+
+CUDA_VISIBLE_DEVICES=2,3 python train.py --base_dir wtest --no_wandb --gpus 2 --batch_size 4 --dataset_type default --backbone ncsnpp_crossattn
+CUDA_VISIBLE_DEVICES=0,1 python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 2 --batch_size 8 --dataset_type default --backbone ncsnpp
+
+CUDA_VISIBLE_DEVICES=0,1 python train.py --base_dir wtest --no_wandb --gpus 1 --batch_size 2 --dataset_type default --backbone ncsnpp_decattn --ProgDeCAttn_loss True
+CUDA_VISIBLE_DEVICES=0 python train.py --base_dir wtest --no_wandb --gpus 1 --batch_size 2 --dataset_type default --backbone ncsnpp
+CUDA_VISIBLE_DEVICES=3 python train.py --base_dir wtest --no_wandb --gpus 1 --batch_size 1 --dataset_type default --backbone ncsnpp_decattn --ProgDeCAttn_loss True --prog_attn_resolutions 256
+CUDA_VISIBLE_DEVICES=2,3 python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 2 --batch_size 16 --dataset_type default --backbone ncsnpp_decattn --cd_block True
+CUDA_VISIBLE_DEVICES=0 python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 1 --batch_size 8 --dataset_type default --backbone ncsnpp_decattn --cd_block True --cd_block_resolutions 128 64 32 16 8 4
+CUDA_VISIBLE_DEVICES=3 python train.py --base_dir dataset/wsj0_chime3 --no_wandb --gpus 1 --batch_size 1 --dataset_type default --backbone ncsnpp_flcattn --front_cross_attn True --ProgDeCAttn_loss True --image_size 128 --num_frames 128 --hop_length 64 --n_fft 254
+
+CUDA_VISIBLE_DEVICES=0,1,2,3 python train.py --base_dir dataset/wsj0_chime3/ --no_wandb --gpus 4 --batch_size 4 --dataset_type default --backbone ncsnpp_deca --deca_resolutions 128 --image_size 128 --num_frames 128 --hop_length 128 --n_fft 254
+CUDA_VISIBLE_DEVICES=2,3 python train.py --base_dir dataset/wsj0_chime3/ --no_wandb --gpus 2 --batch_size 2 --dataset_type default --backbone ncsnpp_deca --input_deca True2
+
+# train help
+python train.py --help
+
+# Tensorboard 확인
+tensorboard --logdir logs/
+
+# Debug 실행 명령어 추가im
+"args": "--base_dir Sample_data --no_wandb --gpus 1 --batch_size 1",
+"args": "--base_dir dataset --no_wandb --gpus 2 --batch_size 2 --resume_from_checkpoint logs/0/epoch=26-last.ckpt",
+
+# clean, noisy 파일 만들기
+python create_wsj0_chime3.py [clean, noise 같이 있는 폴더경로] [저장할 폴더 경로]
+
+# capturable 수정하는 곳 
+/opt/conda/lib/python3.8/site-packages/torch/optim/adam.py
+
+# enhancement.py 실행 명령어
+python enhancement.py --test_dir test_dir --enhanced_dir result2 --ckpt checkpoint/train_wsj0_2cta4cov_epoch=159.ckpt
+python enhancement.py --test_dir test_dir --enhanced_dir no_modify_write_option --ckpt logs/result_logs/wsj0_chimeBGN_baseM
+odel/17/epoch\=348-pesq\=3.08.ckpt
+
+python enhancement.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_SA_X_div/ --ckpt /kkr/sgmse/logs/94/epoch=156-si_sdr=18.51.ckpt
+
+
+# enhancement, evaluate
+CUDA_VISIBLE_DEVICES=0 python enhancement.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_85_sdr --ckpt /kkr/sgmse/logs/85/epoch=76-si_sdr=18.83.ckpt
+CUDA_VISIBLE_DEVICES=1 python enhancement.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_86_sdr --ckpt /kkr/sgmse/logs/86/epoch=69-si_sdr=18.39.ckpt
+CUDA_VISIBLE_DEVICES=2 python enhancement.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_87_sdr --ckpt /kkr/sgmse/logs/87/epoch=73-si_sdr=18.38.ckpt
+CUDA_VISIBLE_DEVICES=3 python enhancement.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_88_sdr --ckpt /kkr/sgmse/logs/88/epoch=153-si_sdr=18.61.ckpt
+
+python calc_metrics.py --test_dir dataset/wsj0_chime3/test --enhanced_dir dataset/wsj0_chime3/enhanced_test_85_sdr
