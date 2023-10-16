@@ -20,7 +20,7 @@ if __name__ == '__main__':
 
     test_dir = args.test_dir
     # clean_dir = join(test_dir, "clean/")
-    clean_dir = '/mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/clean_test'
+    clean_dir = '/kkr/sgmse/dataset/army/new_army/clean_test'
     # noisy_dir = join(test_dir, "test/noisy/")
     noisy_dir = join(test_dir, "noisy/")
     enhanced_dir = args.enhanced_dir
@@ -33,18 +33,17 @@ if __name__ == '__main__':
     noisy_files = sorted(glob('{}/*.wav'.format(noisy_dir)))
     for noisy_file in tqdm(noisy_files):
         ### 기본 filename
-        # filename = '_'.join(noisy_file.split('/')[-1].split('_')[:-1]) + '.wav'
+        # filename = noisy_file.split('/')[-1]
         ### SPINE noisy data는 wav 이름 맨 뒤에 _xxxx가 추가된 형태
-        filename = '_'.join(noisy_file.split('/')[-1].split('_')[:-1]) + '.wav'
-        temp = noisy_file.split('/')[-1]
+        noisy_filename = noisy_file.split('/')[-1]
+        clean_filename = '_'.join(noisy_file.split('/')[-1].split('_')[:-1]) + '.wav'
         
-        x, _ = read(join(clean_dir, filename))
+        x, _ = read(join(clean_dir, clean_filename))
         y, _ = read(noisy_file)
         n = y - x 
-        # x_method, _ = read(join(enhanced_dir, filename))
-        x_method, _ = read(join(enhanced_dir, temp))
+        x_method, _ = read(join(enhanced_dir, noisy_filename))
 
-        data["filename"].append(filename)
+        data["filename"].append(clean_filename)
         data["pesq"].append(pesq(sr, x, x_method, 'wb'))
         data["estoi"].append(stoi(x, x_method, sr, extended=True))
         data["si_sdr"].append(energy_ratios(x_method, x, n)[0])
