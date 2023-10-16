@@ -24,7 +24,8 @@ if __name__ == '__main__':
     parser.add_argument("--N", type=int, default=30, help="Number of reverse steps")
     args = parser.parse_args()
 
-    noisy_dir = join(args.test_dir, 'noisy/')
+    # noisy_dir = join(args.test_dir, 'noisy/')
+    noisy_dir = args.test_dir
     checkpoint_file = args.ckpt
     corrector_cls = args.corrector
 
@@ -39,7 +40,7 @@ if __name__ == '__main__':
     split = inference_split
 
     # Load score model 
-    model = ScoreModel.load_from_checkpoint(checkpoint_file, base_dir='', batch_size=16, num_workers=0, kwargs=dict(gpu=False))
+    model = ScoreModel.load_from_checkpoint(checkpoint_file, base_dir='', batch_size=64, num_workers=0, kwargs=dict(gpu=False))
     model.eval(no_ema=False)
     model.cuda()
 

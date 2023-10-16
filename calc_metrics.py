@@ -19,9 +19,10 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     test_dir = args.test_dir
-    clean_dir = join(test_dir, "clean/")
-    noisy_dir = join(test_dir, "test/noisy/")
-    # noisy_dir = join(test_dir, "noisy/")
+    # clean_dir = join(test_dir, "clean/")
+    clean_dir = '/mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/clean_test'
+    # noisy_dir = join(test_dir, "test/noisy/")
+    noisy_dir = join(test_dir, "noisy/")
     enhanced_dir = args.enhanced_dir
 
     data = {"filename": [], "pesq": [], "estoi": [], "si_sdr": [], "si_sir": [],  "si_sar": []}

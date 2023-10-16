@@ -1,0 +1,9 @@
+# python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_avg10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MA_MD_pesq332
+python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_avg10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MA_MD_sdr1872
+python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_avg10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MA_ND_pesq310
+# python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_avg10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MA_ND_sdr1752
+
+python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_only10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MO_MD_pesq332
+# python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_only10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MO_MD_sdr1872
+python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_only10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MO_ND_pesq310
+# python calc_metrics.py --test_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/military_noise_10dB/test_only10dB --enhanced_dir /mnt/ssd_mnt/kkr/sgmse/dataset/army/new_army/10dB_training/test_results/MO_ND_sdr1752
