@@ -313,15 +313,15 @@ class NCSNpp_DeCA(nn.Module):
         
         if self.my_args['input_deca'] == 'Spine_CNN_64':
             logs.append(f'Input_DeCorrelated Attention, Type: Spine_CNN_64 추가\n')
-            modules.append(ResnetBlock_firNo_tembYes(down=True, in_ch=4))
-            modules.append(ResnetBlock_firNo_tembYes(down=True, in_ch=4))            
+            modules.append(ResnetBlock(down=True, in_ch=4))
+            modules.append(ResnetBlock(down=True, in_ch=4))            
             modules.append(DeCAttnBlock(channels=channels//2))
-            all_resolutions = [int(x/4) for x in all_resolutions]
-            self.attn_resolutions = [int(x/4) for x in self.attn_resolutions]
-            attn_resolutions = [int(x/4) for x in attn_resolutions]
+            # all_resolutions = [int(x/4) for x in all_resolutions]
+            # self.attn_resolutions = [int(x/4) for x in self.attn_resolutions]
+            # attn_resolutions = [int(x/4) for x in attn_resolutions]
             
-            modules.append(ResnetBlock_firNo_tembYes(down=True, in_ch=1))
-            modules.append(ResnetBlock_firNo_tembYes(down=True, in_ch=1))
+            modules.append(ResnetBlock(in_ch=4, up=True))
+            modules.append(ResnetBlock(in_ch=4, up=True))
         ##########################################################################          
                         
         modules.append(conv3x3(channels, nf))
@@ -691,7 +691,7 @@ class NCSNpp_DeCA(nn.Module):
             x += x_residual
         ##########################################################################
         if self.my_args['input_deca'] == 'Spine_CNN_64':
-            x_residual = x
+            # x_residual = x
             
             x = modules[m_idx](x)
             m_idx += 1
@@ -703,10 +703,10 @@ class NCSNpp_DeCA(nn.Module):
             m_idx += 1
             deca_loss += loss
 
-            z = modules[m_idx](z)
+            x = modules[m_idx](x)
             m_idx += 1
             
-            z = modules[m_idx](z)
+            x = modules[m_idx](x)
             m_idx += 1                        
             # x += x_residual
         ##########################################################################  
