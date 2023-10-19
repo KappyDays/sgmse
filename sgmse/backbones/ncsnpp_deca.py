@@ -84,7 +84,6 @@ class NCSNpp_DeCA(nn.Module):
         deca_resolutions = (0),
         input_deca = 'True',
         input_split = 'False',
-        d_loss_scale = 100,
         **unused_kwargs
     ):
         super().__init__()
@@ -314,7 +313,7 @@ class NCSNpp_DeCA(nn.Module):
         if self.my_args['input_deca'] == 'Spine_CNN_64':
             logs.append(f'Input_DeCorrelated Attention, Type: Spine_CNN_64 추가\n')
             modules.append(ResnetBlock(down=True, in_ch=4))
-            modules.append(ResnetBlock(down=True, in_ch=4))            
+            modules.append(ResnetBlock(down=True, in_ch=4))
             modules.append(DeCAttnBlock(channels=channels//2))
             # all_resolutions = [int(x/4) for x in all_resolutions]
             # self.attn_resolutions = [int(x/4) for x in self.attn_resolutions]
@@ -481,7 +480,7 @@ class NCSNpp_DeCA(nn.Module):
 
         ####################### linear를 이용한 downsampling ######################
         if self.my_args['input_deca'] == 'True1':
-            x_residual = x
+            # x_residual = x
             x = x.permute(0, 1, 3, 2).contiguous()
             x = modules[m_idx](x)
             m_idx +=1            
@@ -494,7 +493,7 @@ class NCSNpp_DeCA(nn.Module):
             x = x.permute(0, 1, 3, 2).contiguous()
             x = modules[m_idx](x)
             x = x.permute(0, 1, 3, 2).contiguous()
-            x += x_residual
+            # x += x_residual
             m_idx +=1        
         ############################################################################
         ###################### ResnetBlock 이용한 downsampling ######################
@@ -693,20 +692,20 @@ class NCSNpp_DeCA(nn.Module):
         if self.my_args['input_deca'] == 'Spine_CNN_64':
             # x_residual = x
             
-            x = modules[m_idx](x)
+            x = modules[m_idx](x, temb)
             m_idx += 1
             
-            x = modules[m_idx](x)
+            x = modules[m_idx](x, temb)
             m_idx += 1
             
             x, loss = modules[m_idx](x)
             m_idx += 1
             deca_loss += loss
 
-            x = modules[m_idx](x)
+            x = modules[m_idx](x, temb)
             m_idx += 1
             
-            x = modules[m_idx](x)
+            x = modules[m_idx](x, temb)
             m_idx += 1                        
             # x += x_residual
         ##########################################################################  
